@@ -11,5 +11,5 @@ for i in range(10):
           print(f'{GREEN}{"  " * (15)}{END}')  
     if i > 6:
         print(f'{RED}{"  " * (15)}{END}') 
-            
+              
      
