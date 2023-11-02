@@ -48,9 +48,9 @@ for i in range(10):
     print(plot_list[i])
     pass
 
-# file = open('sequence.txt', 'r')
-# list = []
-# for number in file:
+#    file = open('sequence.txt', 'r')
+#    list = []
+#    for number in file:
 #     list.append(float(number))
-# file.close()
-# print(list)
+#    file.close()
+#    print(list)
